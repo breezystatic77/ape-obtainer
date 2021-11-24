@@ -2,6 +2,8 @@
 
 This program attempts to download every ape in the Bored Ape Yacht Club collection.
 
+Download from the [Releases page](https://github.com/breezystatic77/ape-obtainer/releases)
+
 To do this, you'll need an IPFS node. I recommend [IPFS Desktop](https://docs.ipfs.io/install/ipfs-desktop/).
 
 Launch IPFS Desktop, then launch your downloaded program. It will begin downloading apes to a new folder called `apes`, in the same directory as the program.
